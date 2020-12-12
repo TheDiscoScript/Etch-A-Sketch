@@ -15,4 +15,5 @@ What have I learned in this project:
     -x.style.xxxx - css through JS
     -css: display -grid; height,width
 
-github pages:https://willdooo.github.io/odinProject---ETCH-A-SKETCH/
+# live preview
+https://willdooo.github.io/odinProject_ETCH-A-SKETCH/
