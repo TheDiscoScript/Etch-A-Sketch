@@ -16,4 +16,4 @@ What have I learned in this project:
     -css: display -grid; height,width
 
 # live preview
-https://willdooo.github.io/odinProject_ETCH-A-SKETCH/
+https://willdooo.github.io/Etch-A-Sketch/
