@@ -1,9 +1,20 @@
-# odinProject---ETCH-A-SKETCH
+<h1 align="center">Welcome to Etch-A-Sketch 👋</h1>
+<p>
+</p>
 
-This is project in Odin Project curiculum.
+## Description
 
-It's project in which user creates grid made from squares. The user can draw in this grid.
+Etch-A-Sketch application fror drawing. I enjoyed working on this project. It taught me how to use loops, I further learned about UI interactivity and basics of structuring the code.
+Project made as a part of [The Odin Project's curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project).
 
+## Development
 
-# live preview
-https://willdooo.github.io/Etch-A-Sketch/
+- HTML, JS, CSS
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
